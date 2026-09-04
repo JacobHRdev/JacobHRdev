@@ -21,6 +21,9 @@ Hi there, I'm Jacob. I'm a Computer Engineering student at the Engineering Facul
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=jacobhrdev&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=C9C9C9&icon_color=FFFFFF&border_color=2a2a2a&ring_color=FFFFFF" width="49%" alt="GitHub Stats"/>
+
+<br/>
+
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jacobhrdev&layout=compact&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=C9C9C9&border_color=2a2a2a" width="42%" alt="Top Langs"/>
 
 <br/>
