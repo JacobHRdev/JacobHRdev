@@ -1,71 +1,24 @@
 <div align="center">
-
 <img src="./led-border.svg" width="100%" alt="Jacob Herrera Rodriguez"/>
-
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Simulation+%26+Physics-Based+Computing;Competitive+Programmer" alt="Typing SVG" />
-
 </div>
-
 <br/>
 
 ## 💫 Sobre mí
-
 - 🎓 Estudiando **Ingeniería en Ciencias de la Computación** en la Facultad de Ingeniería, UASLP
 - 🧠 Me apasiona la **simulación física** y la programación competitiva
 - 🏆 Participante en ICPC, RPC, OPI y hackathons como HackMTY 2025
 - ⚡ Actualmente construyendo simuladores interactivos con JavaScript + HTML5 Canvas
-
 <br/>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
 <img src="https://github-readme-stats.shion.dev/api?username=jacobhrdev&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=C9C9C9&icon_color=FFFFFF&border_color=2a2a2a&ring_color=FFFFFF" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jacobhrdev&layout=compact&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=C9C9C9&border_color=2a2a2a" width="42%" alt="Top Langs"/>
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacobhrdev&hide_border=true&background=050505&stroke=2a2a2a&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=C9C9C9&dates=8a8a8a" width="65%" alt="GitHub Streak"/>
-
 </div>
-
-<br/>
-
-## 🚀 Proyectos destacados
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🕳️ Black Hole Simulator
-Simulador interactivo de un agujero negro con JavaScript y HTML5 Canvas. Modela el movimiento de partículas con un potencial de **Paczyński–Wiita**, con control dinámico de masa, zoom, escala temporal y número de partículas. Visualiza discos de acreción, efectos relativistas y trayectorias con paletas personalizables.
-
-`JavaScript` `HTML5 Canvas` `Physics`
-
-</td>
-<td width="33%" valign="top">
-
-### 🌊 Fluid Mechanics Simulator
-Simulador de mecánica de fluidos en tiempo real. Implementa advección semi-Lagrangiana, difusión de Gauss–Seidel y proyección de incompresibilidad para visualizar humo y flujo. Control interactivo de viscosidad, difusión y fuerzas externas.
-
-`JavaScript` `HTML5 Canvas` `Numerical Methods`
-
-</td>
-<td width="33%" valign="top">
-
-### 🎯 Parabolic Shot Simulator
-Simulador interactivo de tiro parabólico con visualización en tiempo real. Modela trayectorias bajo gravedad y resistencia del aire, con control de ángulo, velocidad inicial, coeficiente de arrastre y gravedad. Renderizado dinámico con estelas y zoom.
-
-`JavaScript` `HTML5 Canvas` `Kinematics`
-
-</td>
-</tr>
-</table>
-
-> 💡 *Tip: agrega un GIF corto de cada simulador funcionando arriba de su descripción — sube el archivo al repo y referéncialo con `![demo](./assets/nombre.gif)`. Sube la visibilidad de estos proyectos muchísimo más que el texto solo.*
 
 <br/>
 
@@ -121,25 +74,17 @@ Simulador interactivo de tiro parabólico con visualización en tiempo real. Mod
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-
 </div>
-
 <br/>
 
 ## 🌐 Redes
-
 <div align="center">
-
+  
 [![Facebook](https://img.shields.io/badge/Facebook-000000.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/jacobhrdev)
 [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jacobhr.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobhrdev)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jacobhrdev)
 [![Codeforces](https://img.shields.io/badge/Codeforces-000000.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Jacob_dev)
-
 </div>
-
 <br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jacobhrdev&label=Profile%20views&color=black&style=flat" alt="Profile views"/>
 </div>
