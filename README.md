@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Jacob.<br>I'm currently studying Computer Engineering at the Engineering Faculty at the Univercity Autonomous of San Luis Potosí
+Hi there, I'm Jacob.<br>I'm currently studying Computer Engineering at the Engineering Faculty at the University Autonomous of San Luis Potosí
 
 
 ## 🌐 Socials:
