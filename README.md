@@ -12,6 +12,3 @@ Hi there, I'm Jacob.<br>I'm currently studying Computer Engineering at the Engin
 ![](https://github-readme-stats.shion.dev/api?username=jacobhrdev&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jacobhrdev&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jacobhrdev&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
