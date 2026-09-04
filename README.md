@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-Hi there, I'm Jacob. I'm a Computer Engineering student at the Engineering Faculty of UASLP, with experience in competitive programming and data structures, algorithms, and complexity analysis in C and C++. I also work with JavaScript, Python, Java, SQL, and MATLAB, along with web development in HTML5 and CSS. I have knowledge of electronics and embedded systems, including circuit design, digital logic, and microcontrollers, as well as tools like Git, GitHub, MySQL, and Linux. I'm interested in computer architecture, embedded systems, and software optimization.
+Hi there, I'm Jacob. I'm currently studying Computer Engineering at the Engineering Faculty of UASLP, with experience in competitive programming and data structures, algorithms, and complexity analysis in C and C++. I also work with JavaScript, Python, Java, SQL, and MATLAB, along with web development in HTML5 and CSS. I have knowledge of electronics and embedded systems, including circuit design, digital logic, and microcontrollers, as well as tools like Git, GitHub, MySQL, and Linux. I'm interested in computer architecture, embedded systems, and software optimization.
 
 <br/>
 
