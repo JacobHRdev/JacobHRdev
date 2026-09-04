@@ -5,11 +5,9 @@
 </div>
 <br/>
 
-## 💫 Sobre mí
-- 🎓 Estudiando **Ingeniería en Ciencias de la Computación** en la Facultad de Ingeniería, UASLP
-- 🧠 Me apasiona la **simulación física** y la programación competitiva
-- 🏆 Participante en ICPC, RPC, OPI y hackathons como HackMTY 2025
-- ⚡ Actualmente construyendo simuladores interactivos con JavaScript + HTML5 Canvas
+## 💫 About Me
+Hi there, I'm Jacob. I'm a Computer Engineering student at the Engineering Faculty of UASLP, with experience in competitive programming and data structures, algorithms, and complexity analysis in C and C++. I also work with JavaScript, Python, Java, SQL, and MATLAB, along with web development in HTML5 and CSS. I have knowledge of electronics and embedded systems, including circuit design, digital logic, and microcontrollers, as well as tools like Git, GitHub, Docker, MySQL, and Linux. I'm interested in computer architecture, embedded systems, and software optimization.
+
 <br/>
 
 ## 📊 GitHub Stats
@@ -30,17 +28,12 @@
 ![ICPC](https://img.shields.io/badge/ICPC-000000?style=for-the-badge&logo=icpc&logoColor=white)
 
 </div>
-
 - 🥇 **ICPC** — International Collegiate Programming Contest
-- 🥈 **8th State Programming Tournament** — "Coding Cup Sinaloa"
 - 🥉 **RPC** — Red de Programación Competitiva
-- 🎖️ **OPI** — Olimpiada Potosina de Informática
 - ⏱️ **HackMTY 2025** — Hackathon de 36 horas en el Tec de Monterrey, campus Monterrey
-
 <br/>
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 **Languages**
@@ -53,12 +46,15 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Web & Creative**
+**Web**
 <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Creative**
+<br/>
 ![Blender](https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -77,14 +73,13 @@
 </div>
 <br/>
 
-## 🌐 Redes
+## 🌐 Social Media
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/Facebook-000000.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/jacobhrdev)
 [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jacobhr.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobhrdev)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jacobhrdev)
-[![Codeforces](https://img.shields.io/badge/Codeforces-000000.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Jacob_dev)
 </div>
 <br/>
 </div>
