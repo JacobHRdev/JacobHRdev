@@ -10,5 +10,4 @@ Hi there, I'm Jacob.<br>I'm currently studying Computer Engineering at the Engin
 <br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jacobhrdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jacobhrdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jacobhrdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
