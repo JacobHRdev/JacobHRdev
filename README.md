@@ -1,21 +1,32 @@
 <div align="center">
+
 <img src="./led-border.svg" width="100%" alt="Jacob Herrera Rodriguez"/>
+
 <br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Simulation+%26+Physics-Based+Computing;Competitive+Programmer" alt="Typing SVG" />
+
 </div>
+
 <br/>
 
 ## 💫 About Me
-Hi there, I'm Jacob. I'm a Computer Engineering student at the Engineering Faculty of UASLP, with experience in competitive programming and data structures, algorithms, and complexity analysis in C and C++. I also work with JavaScript, Python, Java, SQL, and MATLAB, along with web development in HTML5 and CSS. I have knowledge of electronics and embedded systems, including circuit design, digital logic, and microcontrollers, as well as tools like Git, GitHub, Docker, MySQL, and Linux. I'm interested in computer architecture, embedded systems, and software optimization.
+
+Hi there, I'm Jacob. I'm a Computer Engineering student at the Engineering Faculty of UASLP, with experience in competitive programming and data structures, algorithms, and complexity analysis in C and C++. I also work with JavaScript, Python, Java, SQL, and MATLAB, along with web development in HTML5 and CSS. I have knowledge of electronics and embedded systems, including circuit design, digital logic, and microcontrollers, as well as tools like Git, GitHub, MySQL, and Linux. I'm interested in computer architecture, embedded systems, and software optimization.
 
 <br/>
 
 ## 📊 GitHub Stats
+
 <div align="center">
+
 <img src="https://github-readme-stats.shion.dev/api?username=jacobhrdev&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=C9C9C9&icon_color=FFFFFF&border_color=2a2a2a&ring_color=FFFFFF" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jacobhrdev&layout=compact&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=C9C9C9&border_color=2a2a2a" width="42%" alt="Top Langs"/>
+
 <br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacobhrdev&hide_border=true&background=050505&stroke=2a2a2a&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=C9C9C9&dates=8a8a8a" width="65%" alt="GitHub Streak"/>
+
 </div>
 
 <br/>
@@ -28,12 +39,15 @@ Hi there, I'm Jacob. I'm a Computer Engineering student at the Engineering Facul
 ![ICPC](https://img.shields.io/badge/ICPC-000000?style=for-the-badge&logo=icpc&logoColor=white)
 
 </div>
+
 - 🥇 **ICPC** — International Collegiate Programming Contest
-- 🥉 **RPC** — Red de Programación Competitiva
-- ⏱️ **HackMTY 2025** — Hackathon de 36 horas en el Tec de Monterrey, campus Monterrey
+- 🥉 **RPC** — Red de Programación Competitiva (Competitive Programming Network)
+- ⏱️ **HackMTY 2025** — 36-hour hackathon at Tecnológico de Monterrey, Monterrey campus
+
 <br/>
 
 ## 🛠️ Tech Stack
+
 <div align="center">
 
 **Languages**
@@ -70,16 +84,18 @@ Hi there, I'm Jacob. I'm a Computer Engineering student at the Engineering Facul
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+
 </div>
+
 <br/>
 
 ## 🌐 Social Media
+
 <div align="center">
-  
+
 [![Facebook](https://img.shields.io/badge/Facebook-000000.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/jacobhrdev)
 [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jacobhr.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobhrdev)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jacobhrdev)
-</div>
-<br/>
+
 </div>
