@@ -4,36 +4,60 @@
 
 <br/>
 
-# Jacob Herrera Rodriguez
-
-**Computer Engineering student building interactive simulations, desktop tools, and algorithmic solutions.**
-
-<br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-JacobHRdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacobHRdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JacobHRdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobhrdev)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Jacob__dev-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Jacob_dev)
 
 </div>
 
-## About me
+<br/>
 
-I'm a Computer Engineering student at the Engineering Faculty of UASLP, based in Mexico. I enjoy turning mathematical and physical ideas into software people can explore, while strengthening my fundamentals through competitive programming.
+## 👋 About me
 
-My current work combines interactive visualization, desktop applications, algorithms, and systems-oriented development. I care about clear interfaces, reproducible projects, and understanding the logic behind the software I build.
+I'm a Computer Engineering student at the **Engineering Faculty of UASLP**, based in Mexico. I like turning mathematical and physical ideas into software people can actually explore — simulations you can drag, tune, and watch respond in real time — while sharpening my fundamentals through competitive programming.
 
-## Featured projects
+My current work sits at the intersection of **interactive visualization, desktop applications, algorithms, and systems-oriented development**. I care about clear interfaces, reproducible projects, and understanding the logic underneath the software I build, not just making it run.
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [AscendOS](https://github.com/JacobHRdev/AscendOS) | Desktop RPG habit tracker with quests, streaks, XP, and character progression. | React, Vite, Electron, SQLite, Recharts |
-| [Black Hole](https://github.com/JacobHRdev/Black-Hole) | Browser-based simulator for accretion disks, orbital motion, lensing, and black-hole reference radii. | JavaScript, HTML Canvas, CSS |
-| [Newton's Second Law](https://github.com/JacobHRdev/Second-Newtons-Law) | Interactive simulator with an inclined plane, hanging mass, tension, friction, equations, and free-body diagrams. | Python, Pygame |
-| [Competitive Programming Solutions](https://github.com/JacobHRdev/My-Competitive-Programming-Solutions) | Practice repository covering CSES, ICPC, RPC, Codeforces, algorithms, and data structures. | C++17 |
+<br/>
 
-## Tech stack
+## 🚀 Featured projects
 
-### Languages
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JacobHRdev/AscendOS">AscendOS</a></h3>
+      Desktop RPG-style habit tracker — quests, streaks, XP, and character progression turn daily routines into a game.
+      <br/><br/>
+      <code>React</code> <code>Vite</code> <code>Electron</code> <code>SQLite</code> <code>Recharts</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JacobHRdev/Black-Hole">Black Hole</a></h3>
+      Browser-based simulator for accretion disks, orbital motion, gravitational lensing, and black-hole reference radii.
+      <br/><br/>
+      <code>JavaScript</code> <code>HTML Canvas</code> <code>CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JacobHRdev/Second-Newtons-Law">Newton's Second Law</a></h3>
+      Interactive simulator with an inclined plane, hanging mass, tension, friction, live equations, and free-body diagrams.
+      <br/><br/>
+      <code>Python</code> <code>Pygame</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JacobHRdev/My-Competitive-Programming-Solutions">Competitive Programming Solutions</a></h3>
+      Practice repository covering CSES, ICPC, RPC, and Codeforces problems, algorithms, and data structures.
+      <br/><br/>
+      <code>C++17</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech stack
+
+**Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,7 +66,7 @@ My current work combines interactive visualization, desktop applications, algori
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### Applications and frameworks
+**Applications & frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -52,7 +76,7 @@ My current work combines interactive visualization, desktop applications, algori
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Data, systems, and workflow
+**Data, systems & workflow**
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,15 +86,19 @@ My current work combines interactive visualization, desktop applications, algori
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## Focus areas
+<br/>
 
-- Interactive physics and mathematics visualizations
-- Desktop applications and local-first data
-- Data structures, algorithms, and complexity analysis
-- Computer architecture, embedded systems, and software optimization
-- Competitive programming through ICPC, RPC, CSES, and Codeforces
+## 🎯 Focus areas
 
-## GitHub activity
+- 🌀 Interactive physics and mathematics visualizations
+- 🖥️ Desktop applications and local-first data
+- 🧮 Data structures, algorithms, and complexity analysis
+- ⚙️ Computer architecture, embedded systems, and software optimization
+- 🏆 Competitive programming through ICPC, RPC, CSES, and Codeforces
+
+<br/>
+
+## 📊 GitHub activity
 
 <div align="center">
 
@@ -89,6 +117,6 @@ My current work combines interactive visualization, desktop applications, algori
 
 <div align="center">
 
-Open to learning, building, and collaborating on projects where software meets mathematics, physics, or systems.
+**Open to learning, building, and collaborating on projects where software meets mathematics, physics, or systems.**
 
 </div>
