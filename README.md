@@ -101,19 +101,9 @@ My current work sits at the intersection of **interactive visualization, desktop
 
 <br/>
 
-## 📊 GitHub activity
+📊 GitHub activity
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=JacobHRdev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=111111&text_color=444444&icon_color=1F8ACB" width="49%" alt="GitHub statistics"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JacobHRdev&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=444444" width="42%" alt="Most used languages"/> </div> <br/> <div align="center">
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=JacobHRdev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=111111&text_color=444444&icon_color=1F8ACB" width="49%" alt="GitHub statistics"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JacobHRdev&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=444444" width="42%" alt="Most used languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Open to learning, building, and collaborating on projects where software meets mathematics, physics, or systems.**
+Open to learning, building, and collaborating on projects where software meets mathematics, physics, or systems.
 
 </div>
