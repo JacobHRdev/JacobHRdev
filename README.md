@@ -7,6 +7,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-JacobHRdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacobHRdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JacobHRdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobhrdev)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Jacob__dev-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Jacob_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-jacobhr.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jacobhr.dev)
+[![Facebook](https://img.shields.io/badge/Facebook-JacobHRdev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jacobhrdev)
+[![X](https://img.shields.io/badge/X-JacobHRdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jacobhrdev)
 
 </div>
 
@@ -97,9 +100,20 @@ My current work sits at the intersection of **interactive visualization, desktop
 - 🏆 Competitive programming through ICPC, RPC, CSES, and Codeforces
 
 <br/>
-📊 GitHub activity
-<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=JacobHRdev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=111111&text_color=444444&icon_color=1F8ACB" width="49%" alt="GitHub statistics"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JacobHRdev&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=444444" width="42%" alt="Most used languages"/> </div> <br/> <div align="center">
 
-Open to learning, building, and collaborating on projects where software meets mathematics, physics, or systems.
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=JacobHRdev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=111111&text_color=444444&icon_color=1F8ACB" width="49%" alt="GitHub statistics"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JacobHRdev&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=444444" width="42%" alt="Most used languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Open to learning, building, and collaborating on projects where software meets mathematics, physics, or systems.**
 
 </div>
