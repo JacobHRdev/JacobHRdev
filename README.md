@@ -23,41 +23,6 @@ My current work sits at the intersection of **interactive visualization, desktop
 
 <br/>
 
-## 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JacobHRdev/AscendOS">AscendOS</a></h3>
-      Desktop RPG-style habit tracker — quests, streaks, XP, and character progression turn daily routines into a game.
-      <br/><br/>
-      <code>React</code> <code>Vite</code> <code>Electron</code> <code>SQLite</code> <code>Recharts</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JacobHRdev/Black-Hole">Black Hole</a></h3>
-      Browser-based simulator for accretion disks, orbital motion, gravitational lensing, and black-hole reference radii.
-      <br/><br/>
-      <code>JavaScript</code> <code>HTML Canvas</code> <code>CSS</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JacobHRdev/Second-Newtons-Law">Newton's Second Law</a></h3>
-      Interactive simulator with an inclined plane, hanging mass, tension, friction, live equations, and free-body diagrams.
-      <br/><br/>
-      <code>Python</code> <code>Pygame</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JacobHRdev/My-Competitive-Programming-Solutions">Competitive Programming Solutions</a></h3>
-      Practice repository covering CSES, ICPC, RPC, and Codeforces problems, algorithms, and data structures.
-      <br/><br/>
-      <code>C++17</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## 🛠️ Tech stack
 
 **Languages**
