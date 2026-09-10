@@ -68,7 +68,6 @@ My current work sits at the intersection of **interactive visualization, desktop
 
 📊 GitHub activity
 <div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=JacobHRdev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=1F8ACB" width="49%" alt="GitHub statistics"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JacobHRdev&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=ffffff" width="42%" alt="Most used languages"/> 
-<a href="https://u8views.com/github/JacobHRdev"><img src="https://u8views.com/api/v1/github/profiles/232701935/views/day-week-month-total-count.svg"></a>
 </div> <br/> <div align="center">
 
 Open to learning, building, and collaborating on projects where software meets mathematics, physics, or systems.
